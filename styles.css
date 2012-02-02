@@ -1,0 +1,74 @@
+body
+{
+  background: #e5e5e5 url('images/squares.png');
+  color: #302627;
+  line-height: 1.0em;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+h1
+{
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+a,a:visited
+{
+  color: #c23e32;
+}
+
+a:hover
+{
+  text-decoration: none;
+}
+#page-container 
+{
+}
+
+#page 
+{
+  padding-top: 10px;
+  position: relative;
+  padding: 20px 0;
+  -ms-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 980px;
+  margin: 0 auto;
+  font-size: 11px;
+}
+
+#header
+{
+  width: 100%;
+  padding: 10px 0;
+  text-align: left;
+}
+
+#main 
+{
+  border-top: 5px solid #c23e32;
+  background: white;
+  padding: 20px 20px 20px 20px;
+  -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  font-size: 15px;
+}
+
+
+
+#footer
+{
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+}
